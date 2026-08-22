@@ -1,3 +1,0 @@
-[include mainsail.cfg]
-
-[include generic-bigtreetech-xxxx.cfg]
